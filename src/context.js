@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {storeProducts, detailProduct} from './data';
+import {storeProducts, detailProduct} from './handling';
 
 const productContext = React.createContext();
 //Provider
